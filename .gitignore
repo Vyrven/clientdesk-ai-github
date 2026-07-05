@@ -1,0 +1,12 @@
+.env
+clientdesk.db
+clientdesk.db-*
+__pycache__/
+*/__pycache__/
+*.pyc
+.vs/
+*.pyproj
+*.pyproj.user
+*.slnx
+venv/
+.venv/
