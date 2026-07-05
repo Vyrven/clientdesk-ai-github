@@ -2,6 +2,20 @@
 
 **English** · [Українська](#clientdeskai-українська)
 
+<p align="center">
+  <img src="assets/ai-intake.png" width="250" alt="AI-powered intake"/>
+  &nbsp;
+  <img src="assets/business-panel.png" width="250" alt="Business dashboard"/>
+  &nbsp;
+  <img src="assets/client-link.png" width="250" alt="Shareable client link"/>
+</p>
+
+<p align="center">
+  <sub><b>Left:</b> the client sends one free-form message and the LLM extracts phone, urgency, device and name automatically ·
+  <b>Center:</b> business dashboard with orders overview, tariff limits and AI knowledge-base status ·
+  <b>Right:</b> auto-generated shareable client link</sub>
+</p>
+
 A Telegram bot that turns free-form customer messages into structured business leads, using an LLM as the extraction and reasoning layer rather than a rigid form.
 
 Built for small service businesses (device repair shops, auto services): a business owner registers via the bot, gets a personal client link, and every incoming message is parsed, validated and routed into an order pipeline — no web app, no forms, just chat.
@@ -81,6 +95,8 @@ MIT
 # ClientDeskAI (Українська)
 
 [English](#clientdeskai) · **Українська**
+
+> 📸 Скріншоти роботи бота — [вгорі сторінки](#clientdeskai): AI-прийом заявки, кабінет бізнесу та посилання для клієнтів.
 
 Telegram-бот, який перетворює довільні повідомлення клієнтів на структуровані заявки, використовуючи LLM як шар витягування та аналізу даних замість жорсткої форми.
 
